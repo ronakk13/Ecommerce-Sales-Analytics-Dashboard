@@ -28,3 +28,5 @@ Developed an end-to-end E-commerce Sales Analytics Dashboard using Power BI, SQL
 - Seasonal demand spikes observed during March, September, and November.
 
 ## 📷 Dashboard Preview
+![Dashboard](Dashboard.png)
+
